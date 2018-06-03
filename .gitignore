@@ -1,0 +1,16 @@
+
+\.vs/cuda/v15/
+
+*.filters
+
+*.user
+
+*.log
+
+cuda/Debug/cuda\.tlog/
+
+cuda/Debug/
+
+cuda/x64/Debug/cuda\.tlog/
+
+cuda/x64/Debug/

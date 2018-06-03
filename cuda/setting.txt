@@ -1,0 +1,3 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2
+
+try to import as opengl
